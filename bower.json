@@ -12,5 +12,12 @@
     "paper-calculator": "Polymer/paper-calculator#master",
     "topeka-elements": "Polymer/topeka-elements#master",
     "more-elements": "Polymer/more-elements#master"
+  },
+  "resolutions": {
+    "platform": "master",
+    "core-shared-lib": "master",
+    "polymer": "master",
+    "google-apis": "master",
+    "core-component-page": "master"
   }
 }
