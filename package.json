@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/innit/designer/issues"
   },
-  "homepage": "https://github.com/innit/designer"
+  "homepage": "https://github.com/innit/designer",
+  "dependencies": {
+    "sails": "^0.10.5"
+  }
 }
